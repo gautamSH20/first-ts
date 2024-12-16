@@ -113,7 +113,7 @@ type BadUser = {
   ip: string;
 };
 
-let u1: GoodUser = {
+let u: GoodUser = {
   name: "Guatam",
   gift: "nice",
 };
